@@ -217,7 +217,7 @@ a.nav-item {
 }
 
 #mc_embed_signup_scroll .email.email.email {
-  width: 100% !important;
+  width: 100%;
   border: solid 1px #eeeeee;
   border-radius: 5px;
   padding: 8px 10px;
